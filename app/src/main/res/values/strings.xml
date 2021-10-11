@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioBooksPlayer</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="best_s">Best Selling</string>
+</resources>
